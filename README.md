@@ -1,2 +1,2 @@
-# react-plus-redux-plus-storage
-React+Redux+localStorage from Scratch
+# react+redux+localStorage
+Here you can learn Redux from scratch.
