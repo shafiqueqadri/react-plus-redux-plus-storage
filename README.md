@@ -1,7 +1,9 @@
 # react+redux+localStorage
 Here you can learn Redux from scratch.
 
-# Table of Content
+## Table of Contents
+
 - [React]
 - [Redux]
 - [localStorage]
+
